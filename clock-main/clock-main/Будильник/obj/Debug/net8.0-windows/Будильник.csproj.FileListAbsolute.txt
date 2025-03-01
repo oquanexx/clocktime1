@@ -1,0 +1,17 @@
+G:\Trash\Задания\Будильник\Будильник\bin\Debug\net8.0-windows\Будильник.exe
+G:\Trash\Задания\Будильник\Будильник\bin\Debug\net8.0-windows\Будильник.deps.json
+G:\Trash\Задания\Будильник\Будильник\bin\Debug\net8.0-windows\Будильник.runtimeconfig.json
+G:\Trash\Задания\Будильник\Будильник\bin\Debug\net8.0-windows\Будильник.dll
+G:\Trash\Задания\Будильник\Будильник\bin\Debug\net8.0-windows\Будильник.pdb
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.Form1.resources
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.csproj.GenerateResource.cache
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.GeneratedMSBuildEditorConfig.editorconfig
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.AssemblyInfoInputs.cache
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.AssemblyInfo.cs
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.csproj.CoreCompileInputs.cache
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.dll
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\refint\Будильник.dll
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.pdb
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.genruntimeconfig.cache
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\ref\Будильник.dll
+G:\Trash\Задания\Будильник\Будильник\obj\Debug\net8.0-windows\Будильник.sourcelink.json
